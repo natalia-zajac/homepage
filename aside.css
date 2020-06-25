@@ -1,0 +1,51 @@
+.aside__header {
+    display: block;
+    margin-top: 60px;
+}
+
+.aside__button {
+    border: black solid 5px;
+    padding: 5px;
+    border-radius: 10%;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+}
+
+.aside__button:hover {
+    color: yellow;
+}
+
+.aside__paragraph {
+    color: goldenrod;
+}
+
+.aside__list {
+    list-style-position: inside;
+}
+
+.aside__listItems {
+    list-style-type: square;
+    color: goldenrod;
+}
+
+.aside__listLink {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+.asidelistLink:focus {
+    outline: 2px solid goldenrod;
+}
+
+.aside__listLink:hover {
+    color: white;
+    background-color: rgba(1, 12, 10, 0.863);
+    border: 2px black solid;
+}
+
+.aside__listLink:active {
+    color: crimson;
+}

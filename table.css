@@ -1,0 +1,39 @@
+.myTable {
+    overflow-x: auto;
+    border: white 10px;
+}
+
+.table {
+    margin-top: 100px;
+}
+
+.table__caption {
+    border-collapse: collapse; 
+    width: 100%;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+   
+}
+
+.table__row {
+    background-color: hsla(162, 96%, 2%, 0.863);
+}
+
+.table__row:hover {
+    background-color: rgba(1, 10, 10, 0.733);
+    box-shadow: lightsalmon 5px 5px 20px;
+}
+
+.table__cell {
+    border: 1px solid hsla(150, 45%, 9%, 0.863);
+    border-width: 0 0 1px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.table__cell--important {
+    background-color: rgba(5, 41, 34, 0.863);
+    padding: 10px;
+}

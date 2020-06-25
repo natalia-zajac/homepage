@@ -1,0 +1,73 @@
+.button {
+background-color: rgba(1, 12, 10, 0.863);
+margin-bottom: 50px;
+}
+
+
+.button__changeHeader {
+    border: black solid 5px;
+    padding: 10px;
+    border-radius: 10%;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.button__changeHeader:hover {
+    color: yellow;
+}
+
+.button__removeBackground {
+    border: black solid 5px;
+    padding: 10px;
+    border-radius: 10%;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.button__removeBackground:hover {
+color: red;
+}
+
+.yellowBackground {
+    background-color: rgb(32, 51, 4);
+}
+
+.button__hello {
+    border: black solid 5px;
+    padding: 10px;
+    border-radius: 10%;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px; 
+}
+
+.button__hello:hover {
+    color:green;
+}
+
+.button__changeBackground {
+    border: black solid 5px;
+    padding: 10px;
+    border-radius: 10%;
+    color: black;
+    background-color: gray;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;  
+}
+
+.button__changeBackground:hover {
+    color:  lightsalmon;
+}
+
+.button__changeBackground:visited {
+    color:blue;
+}
