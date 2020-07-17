@@ -1,6 +1,6 @@
 # Natalia Home - moja strona
 
-![Natalia Zając](image/natalia.jpg)
+![Natalia Zając](image/nat.jpg)
 
 ## Demo
 https://natalia-zajac.github.io/homepage/
