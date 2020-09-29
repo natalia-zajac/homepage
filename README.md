@@ -6,7 +6,7 @@
 https://natalia-zajac.github.io/homepage/
 
 ## Opis
-To krótka strona o mnie i o tym dlaczego zaczęłam się uczyć języka JavaScript. Zaprojektowałam tą stronę podczas kursu "Frontend Developer od podstaw" od YouCode. Jestto strona ćwiczeniowa.
+To krótka strona o mnie i o tym dlaczego zaczęłam się uczyć języka JavaScript. Zaprojektowałam tą stronę podczas kursu "Frontend Developer od podstaw" od YouCode. Jest to strona ćwiczeniowa.
 
 ## Użyte technologie
  - HTML
